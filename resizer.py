@@ -11,12 +11,11 @@ from PIL import Image, ImageEnhance
 
 __author__ = "Mons (https://blog.mons.ws)"
 
+
+factor = 2   # степень улучшения изображения  \ image enhancement rate
+basewidth = 1920  # размер, до которого мы уменьшаем изображения \ the size to which we reduce the images
+
 new = 1
-url = "https://blog.mons.ws"
-
-factor = 2
-basewidth = 1920
-
 url = "https://blog.mons.ws"
 root = Tk()
 root.title("Image\Resizer - "+str(basewidth)) #заголовок окна \ Window title
