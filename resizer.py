@@ -11,9 +11,10 @@ from PIL import Image, ImageEnhance
 
 __author__ = "Mons (https://blog.mons.ws)"
 
-
+# Настройки начало \ Settings start
 factor = 2   # степень улучшения изображения  \ image enhancement rate
 basewidth = 1920  # размер, до которого мы уменьшаем изображения \ the size to which we reduce the images
+# Настройки конец \ Settings end 
 
 new = 1
 url = "https://blog.mons.ws"
