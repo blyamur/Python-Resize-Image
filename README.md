@@ -15,6 +15,7 @@ General view of the file selection window
 
 In the script, you can manually set the parameters:
 > В скрипте можно вручную задать следующие параметры
+
 ```
 factor = 2 # степень улучшения изображения
 basewidth = 1920 # до какого размеры уменьшаем
