@@ -16,9 +16,11 @@ The script itself does not represent anything over and above outstanding and the
 pyinstaller resizer.py --noconsole --onefile --icon=resizer.ico
 ```
 
+
 The script comes with icons in the .ico format and the source in the .svg format, so if necessary, you don't need to look for anything separately, everything is already there, and the code has been commented whenever possible to make it clearer and more convenient. 
 
 >В комплекте со скриптом, идет и иконки в формате .ico и исходник в формате .svg, так что при необходимости, ничего отдельно вам искать не надо, все уже есть, а код по возможности прокомментировал, чтобы было понятнее и удобнее.
+
 
 General view of the file selection window
 > Общий вид окна выбора файла
