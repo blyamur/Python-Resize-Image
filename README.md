@@ -1,5 +1,16 @@
 # Python-Resize-Image
 
+I am sharing a Python script for Windows to resize images to a specified size. I did it according to my tasks, so the functionality has some limitations. The script is available on Github, and you can use it in your projects and change the functionality to suit your tasks and needs.
+
+The script itself does not represent anything over and above outstanding and there is nothing new in it, except that it basically has an interface (GUI) with one button. You can use the script either through the Windows command line (CMD), or by compiling the script into an EXE file, for example, through the pyinstaller.
+
+
+>Делюсь скриптом на Python под Windows для изменения размера изображений, до указанного размера. Делал под свои задачи, поэтому функционал имеет некоторую ограниченность. Скрипт доступен на Github, и вы можете использовать его в своих проектах и изменять функционал под ваши задачи и потребности.
+
+>Сам скрипт не представляет ничего сверх выдающегося и в нем нет ничего нового, кроме того, что в нем принципиально сделан интерфейс (GUI) с одной кнопкой. Использовать скрипт можно как через командную строку Windows (CMD), так и собрав скрипт в EXE файл, например через pyinstaller.
+
+
+
 ```
 pyinstaller resizer.py --noconsole --onefile --icon=resizer.ico
 ```
