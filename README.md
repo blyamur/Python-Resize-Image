@@ -63,6 +63,8 @@ Not for commercial use.
 
 © 2022
 
+ [Version with more features - Feodora](https://github.com/blyamur/Feodora/)
+
 
 <!--
 ### Did you find this useful?!
