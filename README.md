@@ -66,6 +66,8 @@ Not for commercial use.
  [Version with more features - Feodora](https://github.com/blyamur/Feodora/)
 
 
+*If You want to help me, you can buy me a cup of coffee :coffee: ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [ko-fi](https://ko-fi.com/monseg), [boosty.to](https://boosty.to/monseg) )* 
+
 <!--
 ### Did you find this useful?!
 > Вы нашли это  полезным ?!
